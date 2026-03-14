@@ -1,0 +1,12 @@
+# Flutter
+**/build/
+**/.dart_tool/
+**/.pub-cache/
+**/.pub/
+**/ios/Pods/
+
+# Python
+**/__pycache__/
+**/.venv/
+**/venv/
+**/.env
